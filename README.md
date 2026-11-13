@@ -42,7 +42,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/flipzone.gif width="300" alt="FlipZone"><br>
+      <img src="images/flipzone.gif" width="300" alt="FlipZone"><br>
       <b>FlipZone</b><br>
       ROBLOX arcade bot done in python!
     </td>
