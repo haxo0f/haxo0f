@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://fentanyl.cat">
-    <img src="https://img.shields.io/badge/🌐_My_Website-visit-blueviolet?style=for-the-badge" alt="fentanyl.cat goated asf ykwim">
+    <img src="https://img.shields.io/badge/🌐_fentanyl.cat-visit-blueviolet?style=for-the-badge" alt="fentanyl.cat goated asf ykwim">
   </a>
 </p>
 
