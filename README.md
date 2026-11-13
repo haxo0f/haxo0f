@@ -1,7 +1,7 @@
 <h1 align="center">hello!! im hax &lt;3</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=never+give+up+%3C3;building+random+bullshit" alt="typing ykykykykykkykykykykky">
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=never+give+up+%3C3;building+random+bullshit" alt="typing animation">
 </p>
 
 <p align="center">
