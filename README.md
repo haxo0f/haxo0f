@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://discord.gg/P2s2hDFq7Q">
-    <img src="images/logo.png" width="200" alt="BloxyBlitz logo">
+    <img src="images/bloxyblitz.png" width="200" alt="BloxyBlitz logo">
   </a>
 </p>
 
@@ -42,12 +42,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/project1.png" width="300" alt="FlipZone"><br>
+      <img src="images/flipzone.gif width="300" alt="FlipZone"><br>
       <b>FlipZone</b><br>
       ROBLOX arcade bot done in python!
     </td>
     <td align="center">
-      <img src="images/project2.png" width="300" alt="PetSpace"><br>
+      <img src="images/petspace.png" width="300" alt="PetSpace"><br>
       <b>PetSpace</b><br>
       yet another ROBLOX arcade bot done in python...
     </td>
