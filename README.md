@@ -16,7 +16,6 @@
 
 - 🇪🇸 based in spain 𐔌՞. .՞𐦯
 - love cybersec, coding, hardware and more! ᢉ𐭩
-- currently learning JS! (i love torturing myself for no reason)
 - ask me anything, i love chatting &lt;3
 
 ---
